@@ -1,8 +1,8 @@
-name: sample-html
+name: mpo-frontend
 static_sites:
 - environment_slug: html
   github:
     branch: main
     deploy_on_push: true
-    repo: digitalocean/sample-html
-  name: sample-html
+    repo: markoffk/mpo-frontend
+  name: mpo-frontend
